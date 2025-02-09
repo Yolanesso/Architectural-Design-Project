@@ -25,6 +25,6 @@
 #### Склонируйте репозиторий:
 
 ```
-git clone [https://github.com/Yolanesso/Architectural-Design-Project.git]
+git clone https://github.com/Yolanesso/Architectural-Design-Project.git
 ```
 #### Откройте index.html в браузере.
